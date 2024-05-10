@@ -1,1 +1,1 @@
-export const backendUrl = "http://localhost:8000";
+export const backendUrl = "https://fusic-s6yo.onrender.com";
